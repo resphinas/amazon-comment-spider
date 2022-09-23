@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 """
 @Time ： 2022/3/17 17:31
-@Auth ： wes陈维炜
+@Auth ： wes
 @File ：amazon_commets.py
 @IDE ：PyCharm
 @email：2934218525@qq.com
